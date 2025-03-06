@@ -1,0 +1,20 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Database files
+*.sqlite3
+
+# Environment variables
+.env
+
+# IDE and editor files
+.vscode/
+*.swp
+*.sublime-project
+*.sublime-workspace
+
+# Other
+*.log
+*.pot
+*.pyc
